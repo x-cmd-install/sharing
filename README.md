@@ -12,6 +12,18 @@ Sharing is a command-line tool to share directories and files from the CLI to iO
 x install sharing
 ```
 
+## Code insight
+
+Total: **5,937** lines of code across **11** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Json | 4,413 | 0 | 0 | 2 |
+| JavaScript | 1,466 | 129 | 103 | 5 |
+| Html | 57 | 0 | 8 | 2 |
+| Svg | 1 | 0 | 0 | 1 |
+| Markdown | 0 | 155 | 65 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/parvardegr/sharing>
@@ -35,20 +47,11 @@ x install sharing
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 4 | 9 | 0 | 2 | 0 | 14 |
+| last180d | 2026-03-14 | 4 | 9 | 0 | 2 | 0 | 14 |
 | 360d | 2025-09-15 | 4 | 9 | 0 | 2 | 0 | 14 |
-
-## Code size
-
-Total: **5,937** lines of code across **11** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Json | 4,413 | 0 | 0 | 2 |
-| JavaScript | 1,466 | 129 | 103 | 5 |
-| Html | 57 | 0 | 8 | 2 |
-| Svg | 1 | 0 | 0 | 1 |
-| Markdown | 0 | 155 | 65 | 1 |
+| last720d | 2024-09-20 | 4 | 9 | 0 | 2 | 0 | 14 |
 
 ## Improve this data
 
@@ -59,4 +62,4 @@ Install metadata for sharing lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:13:43Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:17:21Z._
