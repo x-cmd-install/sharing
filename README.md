@@ -4,7 +4,7 @@
 
 Sharing is a command-line tool to share directories and files from the CLI to iOS and Android devices without the need of an extra client app
 
-[![x-cmd/install — sharing Code Quality Monitoring Repo Card](https://repo.x-cmd.io/sharing.svg)](https://x-cmd.com/install/sharing)
+[![x-cmd/install — sharing Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/sharing.svg)](https://x-cmd.com/install/sharing)
 
 ## Install
 
@@ -46,12 +46,12 @@ Total: **5,937** lines of code across **11** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 4 | 9 | 0 | 2 | 0 | 14 |
-| 360d | 2025-09-27 | 4 | 9 | 0 | 2 | 0 | 14 |
-| last720d | 2024-10-02 | 4 | 9 | 0 | 2 | 0 | 14 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 4 | 9 | 0 | 2 | 0 | 14 |
+| 360d | 2025-09-28 | 4 | 9 | 0 | 2 | 0 | 14 |
+| last720d | 2024-10-03 | 4 | 9 | 0 | 2 | 0 | 14 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for sharing lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:45:41Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:46:15Z._
