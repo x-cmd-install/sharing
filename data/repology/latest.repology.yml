@@ -1,9 +1,21 @@
+- repo: aur
+  srcname: sharing
+  binname: sharing
+  visiblename: sharing
+  version: 1.4.0
+  origversion: 1.4.0-1
+  status: newest
+  summary: Share directories and files to phones over the local network with a QR code
+  maintainers:
+    - ahp@aur
+  licenses:
+    - MIT
 - repo: nix_stable_24_05
   srcname: sharing
   visiblename: sharing
   version: 1.2.2
   origversion: null
-  status: unique
+  status: outdated
   summary: Command-line tool to share directories and files to mobile devices
   maintainers:
     - lostattractor@gmail.com
@@ -14,7 +26,7 @@
   visiblename: sharing
   version: 1.2.2
   origversion: null
-  status: unique
+  status: outdated
   summary: Command-line tool to share directories and files to mobile devices
   maintainers:
     - lostattractor@gmail.com
@@ -25,7 +37,7 @@
   visiblename: sharing
   version: 1.2.2
   origversion: null
-  status: unique
+  status: outdated
   summary: Command-line tool to share directories and files to mobile devices
   maintainers:
     - lostattractor@gmail.com
@@ -36,7 +48,7 @@
   visiblename: sharing
   version: 1.2.2
   origversion: null
-  status: unique
+  status: outdated
   summary: Command-line tool to share directories and files to mobile devices
   maintainers:
     - lostattractor@gmail.com
@@ -47,7 +59,7 @@
   visiblename: sharing
   version: 1.2.2
   origversion: null
-  status: unique
+  status: outdated
   summary: Command-line tool to share directories and files to mobile devices
   maintainers:
     - lostattractor@gmail.com
@@ -58,7 +70,7 @@
   visiblename: sharing
   version: 1.2.2
   origversion: null
-  status: unique
+  status: outdated
   summary: Command-line tool to share directories and files to mobile devices
   maintainers:
     - lostattractor@gmail.com
